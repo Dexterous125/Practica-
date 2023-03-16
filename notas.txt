@@ -1,0 +1,9 @@
+
+ Escrituras
+
+ html
+ head
+ body
+ footer
+
+Revisar comandos de HTML
