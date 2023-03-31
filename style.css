@@ -1,0 +1,53 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+
+}
+
+.contenedor1 {
+
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.seccion1 {
+
+    background: mediumpurple;
+    width: 50%;
+    height: 10%;
+
+}
+
+.seccion2 {
+
+    background: yellow;
+    width: 50%;
+    height: 10%;
+}
+
+.seccion3 {
+
+    background: blue;
+    width: 50%;
+    height: 10%;
+
+}
+
+.seccion4 {
+
+    background: greenyellow;
+    width: 50%;
+    height: 10%;
+
+}
+
+.titulo {
+
+    color: brown;
+
+}

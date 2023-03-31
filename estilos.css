@@ -1,0 +1,35 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.grid-4 {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+
+}
+
+section {
+
+    background-color: aqua;
+    border: 2px solid chocolate;
+    grid-column: span 2;
+}
+
+
+
+aside {
+
+    background-color: mediumorchid;
+
+}
+
+#principal {
+
+    background-color: skyblue;
+    grid-column: 1/4;
+
+}
