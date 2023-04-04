@@ -1,0 +1,47 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.row{
+
+        display: flex;
+        flex-direction: row;
+
+}
+
+header{
+    background-color: aqua;
+    color: blue;
+    padding: 15px;
+}
+
+.pan{
+
+    background-color: rgb(124, 18, 89);
+    padding: 150px;
+    border-radius: 2em;
+
+}
+
+.lechuga{
+
+    background-color: brown;
+    padding: 15px;
+    he
+
+}
+
+.carne{
+
+    background-color: blue;
+    padding: 10px;
+
+}
+
+.ensancha1{
+
+    flex-grow: 2;
+
+}
